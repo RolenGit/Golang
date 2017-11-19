@@ -1,7 +1,13 @@
-# cpp_24_git_test
+#开始Go语言之旅
 
-git练习
+package main
 
-hhhhhhhhhhhhh
+import (
+    "fmt"
+)
 
-添加一行说明
+func main() {
+    
+}
+
+
